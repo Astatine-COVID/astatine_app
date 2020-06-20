@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Astatine</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="name">Name</string>
+    <string name="desc">desc</string>
+    <string name="address">address</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="make_appointment">Make Appointment</string>
+    <string name="marker_label">Click Here To Make An Appointment</string>
+    <string name="appointment_time">Appointment Time</string>
+    <string name="appt_sch">Appointment Scheduled</string>
+    <string name="see_your_appointments">See your appointments</string>
+    <string name="find_a_location">Find a Location</string>
+    <string name="your_appointments">Your Appointments</string>
+    <string name="confirm_your_appointment">Confirm Your Appointment</string>
+</resources>

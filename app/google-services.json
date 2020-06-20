@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809226485836",
+    "firebase_url": "https://astatine-covid19.firebaseio.com",
+    "project_id": "astatine-covid19",
+    "storage_bucket": "astatine-covid19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809226485836:android:fa033b8e1d9dbb8323b4e9",
+        "android_client_info": {
+          "package_name": "com.example.astatine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809226485836-10777j9cst770k1k25gtpjmu048f6n2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAud36MMnoC9jrlsEFjrRznJ8jUwLd-H7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809226485836-10777j9cst770k1k25gtpjmu048f6n2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
